@@ -12,7 +12,7 @@ Pokémon.
 * Also have the RCX Merge addon from the above website installed
 * Have one or more Rikaichan dictionaries installed
 * Clone this repository somewhere. Make sure your Git configuration keeps the
-  original line feeds or converts them to CR only!
+  original line feeds or converts them to LF only!
 * Import the dictionary of your choice via `Tools > RCX Merge`
   * You will be asked, one at a time, whether you want to merge to each of the
     installed dictionaries until you answer 'yes' to one; in most cases, you'll
