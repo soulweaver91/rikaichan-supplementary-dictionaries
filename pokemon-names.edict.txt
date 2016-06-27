@@ -1,0 +1,721 @@
+フシギダネ /Fushigidane; Bulbasaur (pkmn)/
+フシギソウ /Fushigisou; Ivysaur (pkmn)/
+フシギバナ /Fushigibana; Venusaur (pkmn)/
+ヒトカゲ /Hitokage; Charmander (pkmn)/
+リザード /Lizardo; Charmeleon (pkmn)/
+リザードン /Lizardon; Charizard (pkmn)/
+ゼニガメ /Zenigame; Squirtle (pkmn)/
+カメール /Kameil; Wartortle (pkmn)/
+カメックス /Kamex; Blastoise (pkmn)/
+キャタピー /Caterpie (pkmn)/
+トランセル /Trancell; Metapod (pkmn)/
+バタフリー /Butterfree (pkmn)/
+ビードル /Beedle; Weedle (pkmn)/
+コクーン /Cocoon; Kakuna (pkmn)/
+スピアー /Spear; Beedrill (pkmn)/
+ポッポ /Poppo; Pidgey (pkmn)/
+ピジョン /Pigeon; Pidgeotto (pkmn)/
+ピジョット /Pigeot; Pidgeot (pkmn)/
+コラッタ /Koratta; Rattata (pkmn)/
+ラッタ /Ratta; Raticate (pkmn)/
+オニスズメ /Onisuzume; Spearow (pkmn)/
+オニドリル /Onidrill; Fearow (pkmn)/
+アーボ /Arbo; Ekans (pkmn)/
+アーボック /Arbok (pkmn)/
+ピカチュウ /Pikachu (pkmn)/
+ライチュウ /Raichu (pkmn)/
+サンド /Sand; Sandshrew (pkmn)/
+サンドパン /Sandpan; Sandslash (pkmn)/
+ニドラン♀ /Nidoran♀ (pkmn)/
+ニドリーナ /Nidorina (pkmn)/
+ニドクイン /Nidoqueen (pkmn)/
+ニドラン♂ /Nidoran♂ (pkmn)/
+ニドリーノ /Nidorino (pkmn)/
+ニドキング /Nidoking (pkmn)/
+ピッピ /Pippi; Clefairy (pkmn)/
+ピクシー /Pixy; Clefable (pkmn)/
+ロコン /Rokon; Vulpix (pkmn)/
+キュウコン /Kyukon; Ninetales (pkmn)/
+プリン /Purin; Jigglypuff (pkmn)/
+プクリン /Pukurin; Wigglytuff (pkmn)/
+ズバット /Zubat (pkmn)/
+ゴルバット /Golbat (pkmn)/
+ナゾノクサ /Nazonokusa; Oddish (pkmn)/
+クサイハナ /Kusaihana; Gloom (pkmn)/
+ラフレシア /Ruffresia; Vileplume (pkmn)/
+パラス /Paras (pkmn)/
+パラセクト /Parasect (pkmn)/
+コンパン /Kongpang; Venonat (pkmn)/
+モルフォン /Morphon; Venomoth (pkmn)/
+ディグダ /Digda; Diglett (pkmn)/
+ダグトリオ /Dugtrio (pkmn)/
+ニャース /Nyarth; Meowth (pkmn)/
+ペルシアン /Persian (pkmn)/
+コダック /Koduck; Psyduck (pkmn)/
+ゴルダック /Golduck (pkmn)/
+マンキー /Mankey (pkmn)/
+オコリザル /Okorizaru; Primeape (pkmn)/
+ガーディ /Gardie; Growlithe (pkmn)/
+ウインディ /Windie; Arcanine (pkmn)/
+ニョロモ /Nyoromo; Poliwag (pkmn)/
+ニョロゾ /Nyorozo; Poliwhirl (pkmn)/
+ニョロボン /Nyorobon; Poliwrath (pkmn)/
+ケーシィ /Casey; Abra (pkmn)/
+ユンゲラー /Yungerer; Kadabra (pkmn)/
+フーディン /Foodin; Alakazam (pkmn)/
+ワンリキー /Wanriky; Machop (pkmn)/
+ゴーリキー /Goriky; Machoke (pkmn)/
+カイリキー /Kairiky; Machamp (pkmn)/
+マダツボミ /Madatsubomi; Bellsprout (pkmn)/
+ウツドン /Utsudon; Weepinbell (pkmn)/
+ウツボット /Utsubot; Victreebel (pkmn)/
+メノクラゲ /Menokurage; Tentacool (pkmn)/
+ドククラゲ /Dokukurage; Tentacruel (pkmn)/
+イシツブテ /Isitsubute; Geodude (pkmn)/
+ゴローン /Golone; Graveler (pkmn)/
+ゴローニャ /Golonya; Golem (pkmn)/
+ポニータ /Ponyta (pkmn)/
+ギャロップ /Gallop; Rapidash (pkmn)/
+ヤドン /Yadon; Slowpoke (pkmn)/
+ヤドラン /Yadoran; Slowbro (pkmn)/
+コイル /Coil; Magnemite (pkmn)/
+レアコイル /Rarecoil; Magneton (pkmn)/
+カモネギ /Kamonegi; Farfetch'd (pkmn)/
+ドードー /Dodo; Doduo (pkmn)/
+ドードリオ /Dodorio; Dodrio (pkmn)/
+パウワウ /Pawou; Seel (pkmn)/
+ジュゴン /Jugon; Dewgong (pkmn)/
+ベトベター /Betbeter; Grimer (pkmn)/
+ベトベトン /Betbeton; Muk (pkmn)/
+シェルダー /Shellder (pkmn)/
+パルシェン /Parshen; Cloyster (pkmn)/
+ゴース /Ghos; Gastly (pkmn)/
+ゴースト /Ghost; Haunter (pkmn)/
+ゲンガー /Gangar; Gengar (pkmn)/
+イワーク /Iwark; Onix (pkmn)/
+スリープ /Sleep; Drowzee (pkmn)/
+スリーパー /Sleeper; Hypno (pkmn)/
+クラブ /Crab; Krabby (pkmn)/
+キングラー /Kingler (pkmn)/
+ビリリダマ /Biriridama; Voltorb (pkmn)/
+マルマイン /Marumine; Electrode (pkmn)/
+タマタマ /Tamatama; Exeggcute (pkmn)/
+ナッシー /Nassy; Exeggutor (pkmn)/
+カラカラ /Karakara; Cubone (pkmn)/
+ガラガラ /Garagara; Marowak (pkmn)/
+サワムラー /Sawamular; Hitmonlee (pkmn)/
+エビワラー /Ebiwalar; Hitmonchan (pkmn)/
+ベロリンガ /Beroringa; Lickitung (pkmn)/
+ドガース /Dogars; Koffing (pkmn)/
+マタドガス /Matadogas; Weezing (pkmn)/
+サイホーン /Sihorn; Rhyhorn (pkmn)/
+サイドン /Sidon; Rhydon (pkmn)/
+ラッキー /Lucky; Chansey (pkmn)/
+モンジャラ /Monjara; Tangela (pkmn)/
+ガルーラ /Garura; Kangaskhan (pkmn)/
+タッツー /Tattu; Horsea (pkmn)/
+シードラ /Seadra (pkmn)/
+トサキント /Tosakinto; Goldeen (pkmn)/
+アズマオウ /Azumao; Seaking (pkmn)/
+ヒトデマン /Hitodeman; Staryu (pkmn)/
+スターミー /Starmie (pkmn)/
+バリヤード /Barrierd; Mr. Mime (pkmn)/
+ストライク /Strike; Scyther (pkmn)/
+ルージュラ /Rougela; Jynx (pkmn)/
+エレブー /Eleboo; Electabuzz (pkmn)/
+ブーバー /Boober; Magmar (pkmn)/
+カイロス /Kailios; Pinsir (pkmn)/
+ケンタロス /Kentauros; Tauros (pkmn)/
+コイキング /Koiking; Magikarp (pkmn)/
+ギャラドス /Gyarados (pkmn)/
+ラプラス /Laplace; Lapras (pkmn)/
+メタモン /Metamon; Ditto (pkmn)/
+イーブイ /Eievui; Eevee (pkmn)/
+シャワーズ /Showers; Vaporeon (pkmn)/
+サンダース /Thunders; Jolteon (pkmn)/
+ブースター /Booster; Flareon (pkmn)/
+ポリゴン /Porygon (pkmn)/
+オムナイト /Omnite; Omanyte (pkmn)/
+オムスター /Omstar; Omastar (pkmn)/
+カブト /Kabuto (pkmn)/
+カブトプス /Kabutops (pkmn)/
+プテラ /Ptera; Aerodactyl (pkmn)/
+カビゴン /Kabigon; Snorlax (pkmn)/
+フリーザー /Freezer; Articuno (pkmn)/
+サンダー /Thunder; Zapdos (pkmn)/
+ファイヤー /Fire; Moltres (pkmn)/
+ミニリュウ /Miniryu; Dratini (pkmn)/
+ハクリュー /Hakuryu; Dragonair (pkmn)/
+カイリュー /Kairyu; Dragonite (pkmn)/
+ミュウツー /Mewtwo (pkmn)/
+ミュウ /Mew (pkmn)/
+チコリータ /Chicorita; Chikorita (pkmn)/
+ベイリーフ /Bayleaf; Bayleef (pkmn)/
+メガニウム /Meganium (pkmn)/
+ヒノアラシ /Hinoarashi; Cyndaquil (pkmn)/
+マグマラシ /Magmarashi; Quilava (pkmn)/
+バクフーン /Bakphoon; Typhlosion (pkmn)/
+ワニノコ /Waninoko; Totodile (pkmn)/
+アリゲイツ /Alligates; Croconaw (pkmn)/
+オーダイル /Ordile; Feraligatr (pkmn)/
+オタチ /Otachi; Sentret (pkmn)/
+オオタチ /Ootachi; Furret (pkmn)/
+ホーホー /Hoho; Hoothoot (pkmn)/
+ヨルノズク /Yorunozuku; Noctowl (pkmn)/
+レディバ /Rediba; Ledyba (pkmn)/
+レディアン /Redian; Ledian (pkmn)/
+イトマル /Itomaru; Spinarak (pkmn)/
+アリアドス /Ariados (pkmn)/
+クロバット /Crobat (pkmn)/
+チョンチー /Chonchie; Chinchou (pkmn)/
+ランターン /Lantern; Lanturn (pkmn)/
+ピチュー /Pichu (pkmn)/
+ピィ /Py; Cleffa (pkmn)/
+ププリン /Pupurin; Igglybuff (pkmn)/
+トゲピー /Togepy; Togepi (pkmn)/
+トゲチック /Togechick; Togetic (pkmn)/
+ネイティ /Naty; Natu (pkmn)/
+ネイティオ /Natio; Xatu (pkmn)/
+メリープ /Merriep; Mareep (pkmn)/
+モココ /Mokoko; Flaaffy (pkmn)/
+デンリュウ /Denryu; Ampharos (pkmn)/
+キレイハナ /Kireihana; Bellossom (pkmn)/
+マリル /Maril; Marill (pkmn)/
+マリルリ /Marilli; Azumarill (pkmn)/
+ウソッキー /Usokkie; Sudowoodo (pkmn)/
+ニョロトノ /Nyorotono; Politoed (pkmn)/
+ハネッコ /Hanecco; Hoppip (pkmn)/
+ポポッコ /Popocco; Skiploom (pkmn)/
+ワタッコ /Watacco; Jumpluff (pkmn)/
+エイパム /Eipam; Aipom (pkmn)/
+ヒマナッツ /Himanuts; Sunkern (pkmn)/
+キマワリ /Kimawari; Sunflora (pkmn)/
+ヤンヤンマ /Yanyanma; Yanma (pkmn)/
+ウパー /Upah; Wooper (pkmn)/
+ヌオー /Nuoh; Quagsire (pkmn)/
+エーフィ /Eifie; Espeon (pkmn)/
+ブラッキー /Blacky; Umbreon (pkmn)/
+ヤミカラス /Yamikarasu; Murkrow (pkmn)/
+ヤドキング /Yadoking; Slowking (pkmn)/
+ムウマ /Muma; Misdreavus (pkmn)/
+アンノーン /Unknown; Unown (pkmn)/
+ソーナンス /Sonans; Wobbuffet (pkmn)/
+キリンリキ /Kirinriki; Girafarig (pkmn)/
+クヌギダマ /Kunugidama; Pineco (pkmn)/
+フォレトス /Foretos; Forretress (pkmn)/
+ノコッチ /Nokocchi; Dunsparce (pkmn)/
+グライガー /Gliger; Gligar (pkmn)/
+ハガネール /Haganeil; Steelix (pkmn)/
+ブルー /Bull; Snubbull (pkmn)/
+グランブル /Granbull (pkmn)/
+ハリーセン /Harysen; Qwilfish (pkmn)/
+ハッサム /Hassam; Scizor (pkmn)/
+ツボツボ /Tsubotsubo; Shuckle (pkmn)/
+ヘラクロス /Heracros; Heracross (pkmn)/
+ニューラ /Nyula; Sneasel (pkmn)/
+ヒメグマ /Himeguma; Teddiursa (pkmn)/
+リングマ /Ringuma; Ursaring (pkmn)/
+マグマッグ /Magmag; Slugma (pkmn)/
+マグカルゴ /Magcargot; Magcargo (pkmn)/
+ウリムー /Urimoo; Swinub (pkmn)/
+イノムー /Inomoo; Piloswine (pkmn)/
+サニーゴ /Sunnygo; Corsola (pkmn)/
+テッポウオ /Teppouo; Remoraid (pkmn)/
+オクタン /Okutank; Octillery (pkmn)/
+デリバード /Delibird (pkmn)/
+マンタイン /Mantain; Mantine (pkmn)/
+エアームド /Airmd; Skarmory (pkmn)/
+デルビル /Delvil; Houndour (pkmn)/
+ヘルガー /Hellgar; Houndoom (pkmn)/
+キングドラ /Kingdra (pkmn)/
+ゴマゾウ /Gomazou; Phanpy (pkmn)/
+ドンファン /Donfan; Donphan (pkmn)/
+ポリゴン２ /Porygon2 (pkmn)/
+オドシシ /Odoshishi; Stantler (pkmn)/
+ドーブル /Doble; Smeargle (pkmn)/
+バルキー /Balkie; Tyrogue (pkmn)/
+カポエラー /Kapoerer; Hitmontop (pkmn)/
+ムチュール /Muchul; Smoochum (pkmn)/
+エレキッド /Elekid (pkmn)/
+ブビィ /Buby; Magby (pkmn)/
+ミルタンク /Miltank (pkmn)/
+ハピナス /Happinas; Blissey (pkmn)/
+ライコウ /Raikou (pkmn)/
+エンテイ /Entei (pkmn)/
+スイクン /Suicune (pkmn)/
+ヨーギラス /Yogiras; Larvitar (pkmn)/
+サナギラス /Sanagiras; Pupitar (pkmn)/
+バンギラス /Bangiras; Tyranitar (pkmn)/
+ルギア /Lugia (pkmn)/
+ホウオウ /Houou; Ho-Oh (pkmn)/
+セレビィ /Celebi (pkmn)/
+キモリ /Kimori; Treecko (pkmn)/
+ジュプトル /Juptile; Grovyle (pkmn)/
+ジュカイン /Jukain; Sceptile (pkmn)/
+アチャモ /Achamo; Torchic (pkmn)/
+ワカシャモ /Wakasyamo; Combusken (pkmn)/
+バシャーモ /Bursyamo; Blaziken (pkmn)/
+ミズゴロウ /Mizugorou; Mudkip (pkmn)/
+ヌマクロー /Numacraw; Marshtomp (pkmn)/
+ラグラージ /Laglarge; Swampert (pkmn)/
+ポチエナ /Pochiena; Poochyena (pkmn)/
+グラエナ /Guraena; Mightyena (pkmn)/
+ジグザグマ /Jiguzaguma; Zigzagoon (pkmn)/
+マッスグマ /Massuguma; Linoone (pkmn)/
+ケムッソ /Kemusso; Wurmple (pkmn)/
+カラサリス /Karasalis; Silcoon (pkmn)/
+アゲハント /Agehunt; Beautifly (pkmn)/
+マユルド /Mayuld; Cascoon (pkmn)/
+ドクケイル /Dokucale; Dustox (pkmn)/
+ハスボー /Hassboh; Lotad (pkmn)/
+ハスブレロ /Hasubrero; Lombre (pkmn)/
+ルンパッパ /Runpappa; Ludicolo (pkmn)/
+タネボー /Taneboh; Seedot (pkmn)/
+コノハナ /Konohana; Nuzleaf (pkmn)/
+ダーテング /Dirteng; Shiftry (pkmn)/
+スバメ /Subame; Taillow (pkmn)/
+オオスバメ /Ohsubame; Swellow (pkmn)/
+キャモメ /Camome; Wingull (pkmn)/
+ペリッパー /Pelipper (pkmn)/
+ラルトス /Ralts (pkmn)/
+キルリア /Kirlia (pkmn)/
+サーナイト /Sirnight; Gardevoir (pkmn)/
+アメタマ /Ametama; Surskit (pkmn)/
+アメモース /Amemoth; Masquerain (pkmn)/
+キノココ /Kinococo; Shroomish (pkmn)/
+キノガッサ /Kinogassa; Breloom (pkmn)/
+ナマケロ /Namakero; Slakoth (pkmn)/
+ヤルキモノ /Yarukimono; Vigoroth (pkmn)/
+ケッキング /Kekking; Slaking (pkmn)/
+ツチニン /Tutinin; Nincada (pkmn)/
+テッカニン /Tekkanin; Ninjask (pkmn)/
+ヌケニン /Nukenin; Shedinja (pkmn)/
+ゴニョニョ /Gonyonyo; Whismur (pkmn)/
+ドゴーム /Dogohmb; Loudred (pkmn)/
+バクオング /Bakuong; Exploud (pkmn)/
+マクノシタ /Makunoshita; Makuhita (pkmn)/
+ハリテヤマ /Hariteyama; Hariyama (pkmn)/
+ルリリ /Ruriri; Azurill (pkmn)/
+ノズパス /Nosepass (pkmn)/
+エネコ /Eneco; Skitty (pkmn)/
+エネコロロ /Enekororo; Delcatty (pkmn)/
+ヤミラミ /Yamirami; Sableye (pkmn)/
+クチート /Kucheat; Mawile (pkmn)/
+ココドラ /Cokodora; Aron (pkmn)/
+コドラ /Kodora; Lairon (pkmn)/
+ボスゴドラ /Bossgodora; Aggron (pkmn)/
+アサナン /Asanan; Meditite (pkmn)/
+チャーレム /Charem; Medicham (pkmn)/
+ラクライ /Rakurai; Electrike (pkmn)/
+ライボルト /Livolt; Manectric (pkmn)/
+プラスル /Prasle; Plusle (pkmn)/
+マイナン /Minun (pkmn)/
+バルビート /Barubeat; Volbeat (pkmn)/
+イルミーゼ /Illumise (pkmn)/
+ロゼリア /Roselia (pkmn)/
+ゴクリン /Gokulin; Gulpin (pkmn)/
+マルノーム /Marunoom; Swalot (pkmn)/
+キバニア /Kibanha; Carvanha (pkmn)/
+サメハダー /Samehader; Sharpedo (pkmn)/
+ホエルコ /Hoeruko; Wailmer (pkmn)/
+ホエルオー /Whaloh; Wailord (pkmn)/
+ドンメル /Donmel; Numel (pkmn)/
+バクーダ /Bakuuda; Camerupt (pkmn)/
+コータス /Cotoise; Torkoal (pkmn)/
+バネブー /Baneboo; Spoink (pkmn)/
+ブーピッグ /Boopig; Grumpig (pkmn)/
+パッチール /Patcheel; Spinda (pkmn)/
+ナックラー /Nuckrar; Trapinch (pkmn)/
+ビブラーバ /Vibrava (pkmn)/
+フライゴン /Flygon (pkmn)/
+サボネア /Sabonea; Cacnea (pkmn)/
+ノクタス /Noctus; Cacturne (pkmn)/
+チルット /Tyltto; Swablu (pkmn)/
+チルタリス /Tyltalis; Altaria (pkmn)/
+ザングース /Zangoose (pkmn)/
+ハブネーク /Habunake; Seviper (pkmn)/
+ルナトーン /Lunatone (pkmn)/
+ソルロック /Solrock (pkmn)/
+ドジョッチ /Dojoach; Barboach (pkmn)/
+ナマズン /Namazun; Whiscash (pkmn)/
+ヘイガニ /Heigani; Corphish (pkmn)/
+シザリガー /Shizariger; Crawdaunt (pkmn)/
+ヤジロン /Yajilon; Baltoy (pkmn)/
+ネンドール /Nendoll; Claydol (pkmn)/
+リリーラ /Lilyla; Lileep (pkmn)/
+ユレイドル /Yuradle; Cradily (pkmn)/
+アノプス /Anopth; Anorith (pkmn)/
+アーマルド /Armaldo (pkmn)/
+ヒンバス /Hinbass; Feebas (pkmn)/
+ミロカロス /Milokaross; Milotic (pkmn)/
+ポワルン /Powalen; Castform (pkmn)/
+カクレオン /Kakureon; Kecleon (pkmn)/
+カゲボウズ /Kagebouzu; Shuppet (pkmn)/
+ジュペッタ /Juppeta; Banette (pkmn)/
+ヨマワル /Yomawaru; Duskull (pkmn)/
+サマヨール /Samayouru; Dusclops (pkmn)/
+トロピウス /Tropius (pkmn)/
+チリーン /Chirean; Chimecho (pkmn)/
+アブソル /Absol (pkmn)/
+ソーナノ /Sohnano; Wynaut (pkmn)/
+ユキワラシ /Yukiwarashi; Snorunt (pkmn)/
+オニゴーリ /Onigohri; Glalie (pkmn)/
+タマザラシ /Tamazarashi; Spheal (pkmn)/
+トドグラー /Todoggler; Sealeo (pkmn)/
+トドゼルガ /Todoseruga; Walrein (pkmn)/
+パールル /Pearlulu; Clamperl (pkmn)/
+ハンテール /Huntail (pkmn)/
+サクラビス /Sakurabyss; Gorebyss (pkmn)/
+ジーランス /Glanth; Relicanth (pkmn)/
+ラブカス /Lovecus; Luvdisc (pkmn)/
+タツベイ /Tatsubay; Bagon (pkmn)/
+コモルー /Komoruu; Shelgon (pkmn)/
+ボーマンダ /Bohmander; Salamence (pkmn)/
+ダンバル /Dumbber; Beldum (pkmn)/
+メタング /Metang (pkmn)/
+メタグロス /Metagross (pkmn)/
+レジロック /Regirock (pkmn)/
+レジアイス /Regice (pkmn)/
+レジスチル /Registeel (pkmn)/
+ラティアス /Latias (pkmn)/
+ラティオス /Latios (pkmn)/
+カイオーガ /Kyogre (pkmn)/
+グラードン /Groudon (pkmn)/
+レックウザ /Rayquaza (pkmn)/
+ジラーチ /Jirachi (pkmn)/
+デオキシス /Deoxys (pkmn)/
+ナエトル /Naetle; Turtwig (pkmn)/
+ハヤシガメ /Hayashigame; Grotle (pkmn)/
+ドダイトス /Dodaitose; Torterra (pkmn)/
+ヒコザル /Hikozaru; Chimchar (pkmn)/
+モウカザル /Moukazaru; Monferno (pkmn)/
+ゴウカザル /Goukazaru; Infernape (pkmn)/
+ポッチャマ /Pochama; Piplup (pkmn)/
+ポッタイシ /Pottaishi; Prinplup (pkmn)/
+エンペルト /Emperte; Empoleon (pkmn)/
+ムックル /Mukkuru; Starly (pkmn)/
+ムクバード /Mukubird; Staravia (pkmn)/
+ムクホーク /Mukuhawk; Staraptor (pkmn)/
+ビッパ /Bippa; Bidoof (pkmn)/
+ビーダル /Beadaru; Bibarel (pkmn)/
+コロボーシ /Korobohshi; Kricketot (pkmn)/
+コロトック /Korotock; Kricketune (pkmn)/
+コリンク /Kolink; Shinx (pkmn)/
+ルクシオ /Luxio (pkmn)/
+レントラー /Rentorar; Luxray (pkmn)/
+スボミー /Subomie; Budew (pkmn)/
+ロズレイド /Roserade (pkmn)/
+ズガイドス /Zugaidos; Cranidos (pkmn)/
+ラムパルド /Rampald; Rampardos (pkmn)/
+タテトプス /Tatetops; Shieldon (pkmn)/
+トリテプス /Torideps; Bastiodon (pkmn)/
+ミノムッチ /Minomucchi; Burmy (pkmn)/
+ミノマダム /Minomadam; Wormadam (pkmn)/
+ガーメイル /Gamale; Mothim (pkmn)/
+ミツハニー /Mitsuhoney; Combee (pkmn)/
+ビークイン /Beequen; Vespiquen (pkmn)/
+パチリス /Pachirisu (pkmn)/
+ブイゼル /Buoysel; Buizel (pkmn)/
+フローゼル /Floazel; Floatzel (pkmn)/
+チェリンボ /Cherinbo; Cherubi (pkmn)/
+チェリム /Cherrim (pkmn)/
+カラナクシ /Karanakushi; Shellos (pkmn)/
+トリトドン /Tritodon; Gastrodon (pkmn)/
+エテボース /Eteboth; Ambipom (pkmn)/
+フワンテ /Fuwante; Drifloon (pkmn)/
+フワライド /Fuwaride; Drifblim (pkmn)/
+ミミロル /Mimirol; Buneary (pkmn)/
+ミミロップ /Mimilop; Lopunny (pkmn)/
+ムウマージ /Mumargi; Mismagius (pkmn)/
+ドンカラス /Dongkarasu; Honchkrow (pkmn)/
+ニャルマー /Nyarmar; Glameow (pkmn)/
+ブニャット /Bunyatto; Purugly (pkmn)/
+リーシャン /Lisyan; Chingling (pkmn)/
+スカンプー /Skunpoo; Stunky (pkmn)/
+スカタンク /Skutank; Skuntank (pkmn)/
+ドーミラー /Dohmirror; Bronzor (pkmn)/
+ドータクン /Dohtakun; Bronzong (pkmn)/
+ウソハチ /Usohachi; Bonsly (pkmn)/
+マネネ /Manene; Mime Jr. (pkmn)/
+ピンプク /Pinpuku; Happiny (pkmn)/
+ペラップ /Perap; Chatot (pkmn)/
+ミカルゲ /Mikaruge; Spiritomb (pkmn)/
+フカマル /Fukamaru; Gible (pkmn)/
+ガバイト /Gabite (pkmn)/
+ガブリアス /Gaburias; Garchomp (pkmn)/
+ゴンベ /Gonbe; Munchlax (pkmn)/
+リオル /Riolu (pkmn)/
+ルカリオ /Lucario (pkmn)/
+ヒポポタス /Hippopotas (pkmn)/
+カバルドン /Kabaldon; Hippowdon (pkmn)/
+スコルピ /Scorpi; Skorupi (pkmn)/
+ドラピオン /Dorapion; Drapion (pkmn)/
+グレッグル /Gureggru; Croagunk (pkmn)/
+ドクロッグ /Dokurog; Toxicroak (pkmn)/
+マスキッパ /Muskippa; Carnivine (pkmn)/
+ケイコウオ /Keikouo; Finneon (pkmn)/
+ネオラント /Neolant; Lumineon (pkmn)/
+タマンタ /Tamanta; Mantyke (pkmn)/
+ユキカブリ /Yukikaburi; Snover (pkmn)/
+ユキノオー /Yukinooh; Abomasnow (pkmn)/
+マニューラ /Manyula; Weavile (pkmn)/
+ジバコイル /Jibacoil; Magnezone (pkmn)/
+ベロベルト /Berobelt; Lickilicky (pkmn)/
+ドサイドン /Dosidon; Rhyperior (pkmn)/
+モジャンボ /Mojumbo; Tangrowth (pkmn)/
+エレキブル /Elekible; Electivire (pkmn)/
+ブーバーン /Booburn; Magmortar (pkmn)/
+トゲキッス /Togekiss (pkmn)/
+メガヤンマ /Megayanma; Yanmega (pkmn)/
+リーフィア /Leafia; Leafeon (pkmn)/
+グレイシア /Glacia; Glaceon (pkmn)/
+グライオン /Glion; Gliscor (pkmn)/
+マンムー /Mammoo; Mamoswine (pkmn)/
+ポリゴンＺ /PorygonZ; Porygon-Z (pkmn)/
+エルレイド /Erureido; Gallade (pkmn)/
+ダイノーズ /Dainose; Probopass (pkmn)/
+ヨノワール /Yonoir; Dusknoir (pkmn)/
+ユキメノコ /Yukimenoko; Froslass (pkmn)/
+ロトム /Rotom (pkmn)/
+ユクシー /Yuxie; Uxie (pkmn)/
+エムリット /Emrit; Mesprit (pkmn)/
+アグノム /Agnome; Azelf (pkmn)/
+ディアルガ /Dialga (pkmn)/
+パルキア /Palkia (pkmn)/
+ヒードラン /Heatran (pkmn)/
+レジギガス /Regigigas (pkmn)/
+ギラティナ /Giratina (pkmn)/
+クレセリア /Crecelia; Cresselia (pkmn)/
+フィオネ /Phione (pkmn)/
+マナフィ /Manaphy (pkmn)/
+ダークライ /Darkrai (pkmn)/
+シェイミ /Shaymin (pkmn)/
+アルセウス /Arceus (pkmn)/
+ビクティニ /Victini (pkmn)/
+ツタージャ /Tsutarja; Snivy (pkmn)/
+ジャノビー /Janovy; Servine (pkmn)/
+ジャローダ /Jalorda; Serperior (pkmn)/
+ポカブ /Pokabu; Tepig (pkmn)/
+チャオブー /Chaoboo; Pignite (pkmn)/
+エンブオー /Enbuoh; Emboar (pkmn)/
+ミジュマル /Mijumaru; Oshawott (pkmn)/
+フタチマル /Futachimaru; Dewott (pkmn)/
+ダイケンキ /Daikenki; Samurott (pkmn)/
+ミネズミ /Minezumi; Patrat (pkmn)/
+ミルホッグ /Miruhog; Watchog (pkmn)/
+ヨーテリー /Yorterrie; Lillipup (pkmn)/
+ハーデリア /Herderrie; Herdier (pkmn)/
+ムーランド /Mooland; Stoutland (pkmn)/
+チョロネコ /Choroneko; Purrloin (pkmn)/
+レパルダス /Lepardas; Liepard (pkmn)/
+ヤナップ /Yanappu; Pansage (pkmn)/
+ヤナッキー /Yanakkie; Simisage (pkmn)/
+バオップ /Baoppu; Pansear (pkmn)/
+バオッキー /Baokkie; Simisear (pkmn)/
+ヒヤップ /Hiyappu; Panpour (pkmn)/
+ヒヤッキー /Hiyakkie; Simipour (pkmn)/
+ムンナ /Munna (pkmn)/
+ムシャーナ /Musharna (pkmn)/
+マメパト /Mamepato; Pidove (pkmn)/
+ハトーボー /Hatoboh; Tranquill (pkmn)/
+ケンホロウ /Kenhallow; Unfezant (pkmn)/
+シママ /Shimama; Blitzle (pkmn)/
+ゼブライカ /Zebraika; Zebstrika (pkmn)/
+ダンゴロ /Dangoro; Roggenrola (pkmn)/
+ガントル /Gantle; Boldore (pkmn)/
+ギガイアス /Gigaiath; Gigalith (pkmn)/
+コロモリ /Koromori; Woobat (pkmn)/
+ココロモリ /Kokoromori; Swoobat (pkmn)/
+モグリュー /Mogurew; Drilbur (pkmn)/
+ドリュウズ /Doryuzu; Excadrill (pkmn)/
+タブンネ /Tabunne; Audino (pkmn)/
+ドッコラー /Dokkorer; Timburr (pkmn)/
+ドテッコツ /Dotekkotsu; Gurdurr (pkmn)/
+ローブシン /Roubushin; Conkeldurr (pkmn)/
+オタマロ /Otamaro; Tympole (pkmn)/
+ガマガル /Gamagaru; Palpitoad (pkmn)/
+ガマゲロゲ /Gamageroge; Seismitoad (pkmn)/
+ナゲキ /Nageki; Throh (pkmn)/
+ダゲキ /Dageki; Sawk (pkmn)/
+クルミル /Kurumiru; Sewaddle (pkmn)/
+クルマユ /Kurumayu; Swadloon (pkmn)/
+ハハコモリ /Hahakomori; Leavanny (pkmn)/
+フシデ /Fushide; Venipede (pkmn)/
+ホイーガ /Wheega; Whirlipede (pkmn)/
+ペンドラー /Pendror; Scolipede (pkmn)/
+モンメン /Monmen; Cottonee (pkmn)/
+エルフーン /Elfuun; Whimsicott (pkmn)/
+チュリネ /Churine; Petilil (pkmn)/
+ドレディア /Dredear; Lilligant (pkmn)/
+バスラオ /Bassrao; Basculin (pkmn)/
+メグロコ /Meguroco; Sandile (pkmn)/
+ワルビル /Waruvile; Krokorok (pkmn)/
+ワルビアル /Waruvial; Krookodile (pkmn)/
+ダルマッカ /Darumakka; Darumaka (pkmn)/
+ヒヒダルマ /Hihidaruma; Darmanitan (pkmn)/
+マラカッチ /Maracacchi; Maractus (pkmn)/
+イシズマイ /Ishizumai; Dwebble (pkmn)/
+イワパレス /Iwapalace; Crustle (pkmn)/
+ズルッグ /Zuruggu; Scraggy (pkmn)/
+ズルズキン /Zuruzukin; Scrafty (pkmn)/
+シンボラー /Symboler; Sigilyph (pkmn)/
+デスマス /Desumasu; Yamask (pkmn)/
+デスカーン /Desukarn; Cofagrigus (pkmn)/
+プロトーガ /Protoga; Tirtouga (pkmn)/
+アバゴーラ /Abagoura; Carracosta (pkmn)/
+アーケン /Archen (pkmn)/
+アーケオス /Archeos; Archeops (pkmn)/
+ヤブクロン /Yabukuron; Trubbish (pkmn)/
+ダストダス /Dustdas; Garbodor (pkmn)/
+ゾロア /Zorua (pkmn)/
+ゾロアーク /Zoroark (pkmn)/
+チラーミィ /Chillarmy; Minccino (pkmn)/
+チラチーノ /Chillaccino; Cinccino (pkmn)/
+ゴチム /Gothimu; Gothita (pkmn)/
+ゴチミル /Gothimiru; Gothorita (pkmn)/
+ゴチルゼル /Gothiruselle; Gothitelle (pkmn)/
+ユニラン /Uniran; Solosis (pkmn)/
+ダブラン /Doublan; Duosion (pkmn)/
+ランクルス /Lanculus; Reuniclus (pkmn)/
+コアルヒー /Koaruhie; Ducklett (pkmn)/
+スワンナ /Swanna (pkmn)/
+バニプッチ /Vanipeti; Vanillite (pkmn)/
+バニリッチ /Vanirich; Vanillish (pkmn)/
+バイバニラ /Baivanilla; Vanilluxe (pkmn)/
+シキジカ /Shikijika; Deerling (pkmn)/
+メブキジカ /Mebukijika; Sawsbuck (pkmn)/
+エモンガ /Emonga; Emolga (pkmn)/
+カブルモ /Kaburumo; Karrablast (pkmn)/
+シュバルゴ /Chevargo; Escavalier (pkmn)/
+タマゲタケ /Tamagetake; Foongus (pkmn)/
+モロバレル /Morobareru; Amoonguss (pkmn)/
+プルリル /Pururill; Frillish (pkmn)/
+ブルンゲル /Burungel; Jellicent (pkmn)/
+ママンボウ /Mamanbou; Alomomola (pkmn)/
+バチュル /Bachuru; Joltik (pkmn)/
+デンチュラ /Dentula; Galvantula (pkmn)/
+テッシード /Tesseed; Ferroseed (pkmn)/
+ナットレイ /Nutrey; Ferrothorn (pkmn)/
+ギアル /Giaru; Klink (pkmn)/
+ギギアル /Gigiaru; Klang (pkmn)/
+ギギギアル /Gigigiaru; Klinklang (pkmn)/
+シビシラス /Shibishirasu; Tynamo (pkmn)/
+シビビール /Shibibeel; Eelektrik (pkmn)/
+シビルドン /Shibirudon; Eelektross (pkmn)/
+リグレー /Ligray; Elgyem (pkmn)/
+オーベム /Ohbem; Beheeyem (pkmn)/
+ヒトモシ /Hitomoshi; Litwick (pkmn)/
+ランプラー /Lampler; Lampent (pkmn)/
+シャンデラ /Chandela; Chandelure (pkmn)/
+キバゴ /Kibago; Axew (pkmn)/
+オノンド /Onondo; Fraxure (pkmn)/
+オノノクス /Ononokus; Haxorus (pkmn)/
+クマシュン /Kumasyun; Cubchoo (pkmn)/
+ツンベアー /Tunbear; Beartic (pkmn)/
+フリージオ /Freegeo; Cryogonal (pkmn)/
+チョボマキ /Chobomaki; Shelmet (pkmn)/
+アギルダー /Agilder; Accelgor (pkmn)/
+マッギョ /Maggyo; Stunfisk (pkmn)/
+コジョフー /Kojofu; Mienfoo (pkmn)/
+コジョンド /Kojondo; Mienshao (pkmn)/
+クリムガン /Crimgan; Druddigon (pkmn)/
+ゴビット /Gobit; Golett (pkmn)/
+ゴルーグ /Goloog; Golurk (pkmn)/
+コマタナ /Komatana; Pawniard (pkmn)/
+キリキザン /Kirikizan; Bisharp (pkmn)/
+バッフロン /Buffron; Bouffalant (pkmn)/
+ワシボン /Washibon; Rufflet (pkmn)/
+ウォーグル /Warrgle; Braviary (pkmn)/
+バルチャイ /Valchai; Vullaby (pkmn)/
+バルジーナ /Vulgina; Mandibuzz (pkmn)/
+クイタラン /Kuitaran; Heatmor (pkmn)/
+アイアント /Aiant; Durant (pkmn)/
+モノズ /Monozu; Deino (pkmn)/
+ジヘッド /Dihead; Zweilous (pkmn)/
+サザンドラ /Sazandora; Hydreigon (pkmn)/
+メラルバ /Merlarva; Larvesta (pkmn)/
+ウルガモス /Ulgamoth; Volcarona (pkmn)/
+コバルオン /Cobalon; Cobalion (pkmn)/
+テラキオン /Terrakion (pkmn)/
+ビリジオン /Virizion (pkmn)/
+トルネロス /Tornelos; Tornadus (pkmn)/
+ボルトロス /Voltolos; Thundurus (pkmn)/
+レシラム /Reshiram (pkmn)/
+ゼクロム /Zekrom (pkmn)/
+ランドロス /Landlos; Landorus (pkmn)/
+キュレム /Kyurem (pkmn)/
+ケルディオ /Keldeo (pkmn)/
+メロエッタ /Meloetta (pkmn)/
+ゲノセクト /Genesect (pkmn)/
+ハリマロン /Harimaron; Chespin (pkmn)/
+ハリボーグ /Hariborg; Quilladin (pkmn)/
+ブリガロン /Brigarron; Chesnaught (pkmn)/
+フォッコ /Fokko; Fennekin (pkmn)/
+テールナー /Tairenar; Braixen (pkmn)/
+マフォクシー /Mahoxy; Delphox (pkmn)/
+ケロマツ /Keromatsu; Froakie (pkmn)/
+ゲコガシラ /Gekogashira; Frogadier (pkmn)/
+ゲッコウガ /Gekkouga; Greninja (pkmn)/
+ホルビー /Horubee; Bunnelby (pkmn)/
+ホルード /Horudo; Diggersby (pkmn)/
+ヤヤコマ /Yayakoma; Fletchling (pkmn)/
+ヒノヤコマ /Hinoyakoma; Fletchinder (pkmn)/
+ファイアロー /Fiarrow; Talonflame (pkmn)/
+コフキムシ /Kofukimushi; Scatterbug (pkmn)/
+コフーライ /Kofuurai; Spewpa (pkmn)/
+ビビヨン /Viviyon; Vivillon (pkmn)/
+シシコ /Shishiko; Litleo (pkmn)/
+カエンジシ /Kaenjishi; Pyroar (pkmn)/
+フラベベ /Flabebe; Flabébé (pkmn)/
+フラエッテ /Floette (pkmn)/
+フラージェス /Florges (pkmn)/
+メェークル /Meecle; Skiddo (pkmn)/
+ゴーゴート /Gogoat (pkmn)/
+ヤンチャム /Yancham; Pancham (pkmn)/
+ゴロンダ /Goronda; Pangoro (pkmn)/
+トリミアン /Trimmien; Furfrou (pkmn)/
+ニャスパー /Nyasper; Espurr (pkmn)/
+ニャオニクス /Nyaonix; Meowstic (pkmn)/
+ヒトツキ /Hitotsuki; Honedge (pkmn)/
+ニダンギル /Nidangill; Doublade (pkmn)/
+ギルガルド /Gillguard; Aegislash (pkmn)/
+シュシュプ /Shushupu; Spritzee (pkmn)/
+フレフワン /Frefuwan; Aromatisse (pkmn)/
+ペロッパフ /Peroppafu; Swirlix (pkmn)/
+ペロリーム /Peroream; Slurpuff (pkmn)/
+マーイーカ /Maaiika; Inkay (pkmn)/
+カラマネロ /Calamanero; Malamar (pkmn)/
+カメテテ /Kametete; Binacle (pkmn)/
+ガメノデス /Gamenodes; Barbaracle (pkmn)/
+クズモー /Kuzumo; Skrelp (pkmn)/
+ドラミドロ /Dramidoro; Dragalge (pkmn)/
+ウデッポウ /Udeppou; Clauncher (pkmn)/
+ブロスター /Bloster; Clawitzer (pkmn)/
+エリキテル /Erikiteru; Helioptile (pkmn)/
+エレザード /Elezard; Heliolisk (pkmn)/
+チゴラス /Chigoras; Tyrunt (pkmn)/
+ガチゴラス /Gachigoras; Tyrantrum (pkmn)/
+アマルス /Amarus; Amaura (pkmn)/
+アマルルガ /Amaruruga; Aurorus (pkmn)/
+ニンフィア /Nymphia; Sylveon (pkmn)/
+ルチャブル /Luchabull; Hawlucha (pkmn)/
+デデンネ /Dedenne (pkmn)/
+メレシー /Melecie; Carbink (pkmn)/
+ヌメラ /Numera; Goomy (pkmn)/
+ヌメイル /Numeil; Sliggoo (pkmn)/
+ヌメルゴン /Numelgon; Goodra (pkmn)/
+クレッフィ /Cleffy; Klefki (pkmn)/
+ボクレー /Bokurei; Phantump (pkmn)/
+オーロット /Ohrot; Trevenant (pkmn)/
+バケッチャ /Bakeccha; Pumpkaboo (pkmn)/
+パンプジン /Pumpjin; Gourgeist (pkmn)/
+カチコール /Kachikohru; Bergmite (pkmn)/
+クレベース /Crebase; Avalugg (pkmn)/
+オンバット /Onbat; Noibat (pkmn)/
+オンバーン /Onvern; Noivern (pkmn)/
+ゼルネアス /Xerneas (pkmn)/
+イベルタル /Yveltal (pkmn)/
+ジガルデ /Zygarde (pkmn)/
+ディアンシー /Diancie (pkmn)/
+フーパ /Hoopa (pkmn)/
+ボルケニオン /Volcanion (pkmn)/
